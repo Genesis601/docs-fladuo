@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-p6pieh.cnkitabos.xyz/sitemap.xml
